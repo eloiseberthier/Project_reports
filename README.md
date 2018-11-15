@@ -8,5 +8,6 @@ Many thanks to the coauthors of these projects!
 - An applied project (MODAL) on computer vision and robotics (2017)
 - A project about the French scientist Maurice d'Ocagne (2017) 
 - A research project on the modelling of patient flows in emergency services (2017 - 2018)
+- A report of the reading of an article about the layered nearest neighbors (2018)
 - A short project on statistical modelling (2018)
 
