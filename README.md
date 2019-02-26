@@ -10,4 +10,7 @@ Many thanks to the coauthors of these projects!
 - A research project (EA) on the modelling of patient flows in emergency services (2017 - 2018)
 - A report of the reading of an article about the layered nearest neighbors (2018)
 - A short project on statistical modelling (2018)
+- An implementation of a convnet filter visualization method (2018)
+- A review on some approaches to safe reinforcement learning (2018)
+- A project on convex neural networks (2018)
 
