@@ -13,4 +13,4 @@ Many thanks to the coauthors of these projects!
 - An implementation of a convnet filter visualization method (2018)
 - A review on some approaches to safe reinforcement learning (2018)
 - A project on convex neural networks (2018)
-
+- A short review on an article about meta-learners for estimating heterogeneous treatment effects (2019)
