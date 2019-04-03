@@ -14,3 +14,4 @@ Many thanks to the coauthors of these projects!
 - A review on some approaches to safe reinforcement learning (2018)
 - A project on convex neural networks (2018)
 - A short review on an article about meta-learners for estimating heterogeneous treatment effects (2019)
+- A competition on the use of kernel methods for predicting transcription factors binding sites (2019)
