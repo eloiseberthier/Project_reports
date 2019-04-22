@@ -15,3 +15,4 @@ Many thanks to the coauthors of these projects!
 - A project on convex neural networks (2018)
 - A short review on an article about meta-learners for estimating heterogeneous treatment effects (2019)
 - A competition on the use of kernel methods for predicting transcription factors binding sites (2019)
+- A summary + short proof on an article about a general representer theorem (2019)
